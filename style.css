@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f8ff;
+}
+h1 {
+    color: #333;
+}
+ul {
+    list-style-type: square;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #666;
+    padding: 8px;
+    text-align: center;
+}
+thead {
+    background-color: #eee;
+}
